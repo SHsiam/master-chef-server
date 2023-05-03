@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Chef John Smith",
+      "picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg",
+      "experience": "15 years",
+      "numRecipes": 120
+    },
+    {
+      "id": 2,
+      "name": "Chef Maria Garcia",
+      "picture": "https://img.freepik.com/free-photo/handsome-chef-catching-ingredients-soup_329181-672.jpg",
+      "experience": "10 years",
+      "numRecipes": 80
+    },
+    {
+      "id": 3,
+      "name": "Chef David Lee",
+      "picture": "https://img.freepik.com/free-photo/close-up-chef-smelling-dish-after-cooking_329181-16139.jpg",
+      "experience": "20 years",
+      "numRecipes": 150
+    },
+    {
+      "id": 4,
+      "name": "Chef Sarah Kim",
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
+      "experience": "5 years",
+      "numRecipes": 50
+    },
+    {
+      "id": 5,
+      "name": "Chef William Brown",
+      "picture": "https://img.freepik.com/free-photo/pleased-young-male-chef-wearing-glasses-uniform-cap-holding-ladle-looking-camera-showing-delicious-gesture-isolated-blue-background_141793-138149.jpg",
+      "experience": "12 years",
+      "numRecipes": 90
+    },
+    {
+      "id": 6,
+      "name": "Chef Elizabeth Rodriguez",
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg",
+      "experience": "8 years",
+      "numRecipes": 70
+    }
+  ]
+  
+  
+  
+  
+  
+  
+  
+  
