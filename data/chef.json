@@ -4,42 +4,48 @@
       "name": "Chef John Smith",
       "picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg",
       "experience": "15 years",
-      "numRecipes": 120
+      "numRecipes": 120,
+      "bio": "Chef John Smith is a classically trained chef with over 15 years of experience in the culinary industry. He specializes in French cuisine and has worked in some of the finest restaurants in Paris and New York."
     },
     {
       "id": 2,
       "name": "Chef Maria Garcia",
       "picture": "https://img.freepik.com/free-photo/handsome-chef-catching-ingredients-soup_329181-672.jpg",
       "experience": "10 years",
-      "numRecipes": 80
+      "numRecipes": 80,
+      "bio": "Chef Maria Garcia is a self-taught chef with a passion for Mexican cuisine. She has spent over 10 years perfecting her recipes and techniques, and her food is beloved by locals and tourists alike."
     },
     {
       "id": 3,
       "name": "Chef David Lee",
       "picture": "https://img.freepik.com/free-photo/close-up-chef-smelling-dish-after-cooking_329181-16139.jpg",
       "experience": "20 years",
-      "numRecipes": 150
+      "numRecipes": 150,
+      "bio": "Chef David Lee is a Korean-American chef with over 20 years of experience in the culinary industry. He is known for his fusion cuisine that combines traditional Korean flavors with modern techniques and ingredients."
     },
     {
       "id": 4,
       "name": "Chef Sarah Kim",
       "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
       "experience": "5 years",
-      "numRecipes": 50
+      "numRecipes": 50,
+      "bio": "Chef Sarah Kim is a young and talented chef who has quickly made a name for herself in the competitive world of fine dining. She draws inspiration from her Korean heritage and combines it with her love of French and Italian cuisine."
     },
     {
       "id": 5,
       "name": "Chef William Brown",
       "picture": "https://img.freepik.com/free-photo/pleased-young-male-chef-wearing-glasses-uniform-cap-holding-ladle-looking-camera-showing-delicious-gesture-isolated-blue-background_141793-138149.jpg",
       "experience": "12 years",
-      "numRecipes": 90
+      "numRecipes": 90,
+      "bio": "Chef William Brown is a master of Italian cuisine, with over 12 years of experience working in Italian restaurants around the world. He has a passion for using simple, high-quality ingredients to create delicious and authentic dishes."
     },
     {
       "id": 6,
       "name": "Chef Elizabeth Rodriguez",
       "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg",
       "experience": "8 years",
-      "numRecipes": 70
+      "numRecipes": 70,
+      "bio": "Chef Elizabeth Rodriguez is a creative and innovative chef, known for her bold and unique flavor combinations. She has a passion for using fresh, seasonal ingredients in her dishes."
     }
   ]
   
