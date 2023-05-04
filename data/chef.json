@@ -9,21 +9,24 @@
       "recipes": [
         {
           "name": "Pesto Pasta",
+          "items":"8 oz pasta, 1/2 cup basil pesto, 1/4 cup grated Parmesan cheese, Salt and pepper, cherry tomatoes, sliced olives, roasted pine nuts",
           "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
           "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg",
-          "rating": 4.5
+          "rating": 5
         },
         {
           "name": "Roasted Chicken",
+          "items":"1 whole chicken, 2 tablespoons olive oil, 2 teaspoons dried herbs Salt and pepper, to taste 4 garlic cloves, peeled and smashed",
           "cooking_method": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
           "image": "https://img.freepik.com/free-photo/grilled-chicken-legs-barbecue-sauce-with-pepper-seeds-parsley-salt-black-stone-plate-black-stone-table_1150-37858.jpg",
-          "rating": 4.8
+          "rating": 5
         },
         {
           "name": "Fish and Chips",
+          "items":"4 white fish fillets, 1 cup all-purpose flour, 1 teaspoon baking powder, 1 cup cold beer (lager or ale), Salt and pepper, to taste Vegetable oil, for frying 4 large potatoes, peeled and cut into thick wedges",
           "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
           "image": "https://img.freepik.com/free-photo/grilled-seafood-wooden-board-fish-prawns-calamary-green-salad-side-view_141793-3147.jpg",
-          "rating": 4.2
+          "rating": 5
         }
       ]
     },
@@ -37,21 +40,24 @@
       "recipes": [
         {
           "name": "Pesto Pasta",
+          "items":"8 oz pasta, 1/2 cup basil pesto, 1/4 cup grated Parmesan cheese, Salt and pepper, cherry tomatoes, sliced olives, roasted pine nuts",
           "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
           "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg",
-          "rating": 4.5
+          "rating": 5
         },
         {
           "name": "Roasted Chicken",
+          "items":"1 whole chicken, 2 tablespoons olive oil, 2 teaspoons dried herbs Salt and pepper, to taste 4 garlic cloves, peeled and smashed",
           "cooking_method": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
           "image": "https://img.freepik.com/free-photo/grilled-chicken-legs-barbecue-sauce-with-pepper-seeds-parsley-salt-black-stone-plate-black-stone-table_1150-37858.jpg",
-          "rating": 4.8
+          "rating": 5
         },
         {
           "name": "Fish and Chips",
+          "items":"4 white fish fillets, 1 cup all-purpose flour, 1 teaspoon baking powder, 1 cup cold beer (lager or ale), Salt and pepper, to taste Vegetable oil, for frying 4 large potatoes, peeled and cut into thick wedges",
           "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
           "image": "https://img.freepik.com/free-photo/grilled-seafood-wooden-board-fish-prawns-calamary-green-salad-side-view_141793-3147.jpg",
-          "rating": 4.2
+          "rating": 5
         }
       ]
     },
@@ -65,21 +71,24 @@
       "recipes": [
         {
           "name": "Pesto Pasta",
+          "items":"8 oz pasta, 1/2 cup basil pesto, 1/4 cup grated Parmesan cheese, Salt and pepper, cherry tomatoes, sliced olives, roasted pine nuts",
           "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
           "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg",
-          "rating": 4.5
+          "rating": 5
         },
         {
           "name": "Roasted Chicken",
+          "items":"1 whole chicken, 2 tablespoons olive oil, 2 teaspoons dried herbs Salt and pepper, to taste 4 garlic cloves, peeled and smashed",
           "cooking_method": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
           "image": "https://img.freepik.com/free-photo/grilled-chicken-legs-barbecue-sauce-with-pepper-seeds-parsley-salt-black-stone-plate-black-stone-table_1150-37858.jpg",
-          "rating": 4.8
+          "rating": 5
         },
         {
           "name": "Fish and Chips",
+          "items":"4 white fish fillets, 1 cup all-purpose flour, 1 teaspoon baking powder, 1 cup cold beer (lager or ale), Salt and pepper, to taste Vegetable oil, for frying 4 large potatoes, peeled and cut into thick wedges",
           "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
           "image": "https://img.freepik.com/free-photo/grilled-seafood-wooden-board-fish-prawns-calamary-green-salad-side-view_141793-3147.jpg",
-          "rating": 4.2
+          "rating": 5
         }
       ]
     },
@@ -93,21 +102,24 @@
       "recipes": [
         {
           "name": "Pesto Pasta",
+          "items":"8 oz pasta, 1/2 cup basil pesto, 1/4 cup grated Parmesan cheese, Salt and pepper, cherry tomatoes, sliced olives, roasted pine nuts",
           "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
           "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg",
-          "rating": 4.5
+          "rating": 5
         },
         {
           "name": "Roasted Chicken",
+          "items":"1 whole chicken, 2 tablespoons olive oil, 2 teaspoons dried herbs Salt and pepper, to taste 4 garlic cloves, peeled and smashed",
           "cooking_method": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
           "image": "https://img.freepik.com/free-photo/grilled-chicken-legs-barbecue-sauce-with-pepper-seeds-parsley-salt-black-stone-plate-black-stone-table_1150-37858.jpg",
-          "rating": 4.8
+          "rating": 5
         },
         {
           "name": "Fish and Chips",
+          "items":"4 white fish fillets, 1 cup all-purpose flour, 1 teaspoon baking powder, 1 cup cold beer (lager or ale), Salt and pepper, to taste Vegetable oil, for frying 4 large potatoes, peeled and cut into thick wedges",
           "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
           "image": "https://img.freepik.com/free-photo/grilled-seafood-wooden-board-fish-prawns-calamary-green-salad-side-view_141793-3147.jpg",
-          "rating": 4.2
+          "rating": 5
         }
       ]
     },
@@ -121,21 +133,24 @@
       "recipes": [
         {
           "name": "Pesto Pasta",
+          "items":"8 oz pasta, 1/2 cup basil pesto, 1/4 cup grated Parmesan cheese, Salt and pepper, cherry tomatoes, sliced olives, roasted pine nuts",
           "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
           "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg",
-          "rating": 4.5
+          "rating": 5
         },
         {
           "name": "Roasted Chicken",
+          "items":"1 whole chicken, 2 tablespoons olive oil, 2 teaspoons dried herbs Salt and pepper, to taste 4 garlic cloves, peeled and smashed",
           "cooking_method": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
           "image": "https://img.freepik.com/free-photo/grilled-chicken-legs-barbecue-sauce-with-pepper-seeds-parsley-salt-black-stone-plate-black-stone-table_1150-37858.jpg",
-          "rating": 4.8
+          "rating": 5
         },
         {
           "name": "Fish and Chips",
+          "items":"4 white fish fillets, 1 cup all-purpose flour, 1 teaspoon baking powder, 1 cup cold beer (lager or ale), Salt and pepper, to taste Vegetable oil, for frying 4 large potatoes, peeled and cut into thick wedges",
           "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
           "image": "https://img.freepik.com/free-photo/grilled-seafood-wooden-board-fish-prawns-calamary-green-salad-side-view_141793-3147.jpg",
-          "rating": 4.2
+          "rating": 5
         }
       ]
     },
@@ -149,21 +164,24 @@
       "recipes": [
         {
           "name": "Pesto Pasta",
+          "items":"8 oz pasta, 1/2 cup basil pesto, 1/4 cup grated Parmesan cheese, Salt and pepper, cherry tomatoes, sliced olives, roasted pine nuts",
           "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
           "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg",
-          "rating": 4.5
+          "rating": 5
         },
         {
           "name": "Roasted Chicken",
+          "items":"1 whole chicken, 2 tablespoons olive oil, 2 teaspoons dried herbs Salt and pepper, to taste 4 garlic cloves, peeled and smashed",
           "cooking_method": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
           "image": "https://img.freepik.com/free-photo/grilled-chicken-legs-barbecue-sauce-with-pepper-seeds-parsley-salt-black-stone-plate-black-stone-table_1150-37858.jpg",
-          "rating": 4.8
+          "rating": 5
         },
         {
           "name": "Fish and Chips",
+          "items":"4 white fish fillets, 1 cup all-purpose flour, 1 teaspoon baking powder, 1 cup cold beer (lager or ale), Salt and pepper, to taste Vegetable oil, for frying 4 large potatoes, peeled and cut into thick wedges",
           "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
           "image": "https://img.freepik.com/free-photo/grilled-seafood-wooden-board-fish-prawns-calamary-green-salad-side-view_141793-3147.jpg",
-          "rating": 4.2
+          "rating": 5
         }
       ]
     }
